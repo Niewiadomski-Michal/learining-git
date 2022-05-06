@@ -52,3 +52,4 @@ for i in podzielne_przez_5:
 
 print ("Liczby te podniesione do 3 potęgi:")
 print (szesciany_podzielnych_przez_5)
+print ("Oto nowy napis do druku ;)")
