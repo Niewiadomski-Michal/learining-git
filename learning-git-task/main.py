@@ -4,3 +4,4 @@ lista_zakupow = {
     }
 
 print (lista_zakupow)
+print ("o co tutaj chodzi?"
